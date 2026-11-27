@@ -1,0 +1,14 @@
+# Keil 编译产物与调试中间文件
+**/Objects/
+**/Listings/
+**/DebugConfig/
+**/Project Backups/
+
+# Keil / Proteus 个人 IDE 状态
+*.uvguix.*
+*.workspace
+
+# 备份与系统文件
+*.bak
+Thumbs.db
+Desktop.ini
